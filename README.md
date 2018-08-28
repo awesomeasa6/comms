@@ -1,2 +1,1 @@
-# comms_config
-This is the config for my (Angery Gösta Bagge) addon called "Comms and OOC"! This will not work for others comms and/or ooc addons.
+download this and unzip and if there is just a folder called "lua" make a folder called "comms" and put "lua" in there, but if there is a folder before "lua" then put that directly into your server addons.
